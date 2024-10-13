@@ -1,0 +1,12 @@
+{
+  "name": "stringcalculatortdd",
+  "version": "1.0.0",
+  "description": "This repo has a simple function that explains the TDD (Test Driven Development) principle in JavaScript using the Jest library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
