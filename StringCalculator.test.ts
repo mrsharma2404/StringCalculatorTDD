@@ -26,10 +26,7 @@ test("should throw an error for negative numbers", () => {
   );
 });
 
-test("should handle custom delimiter", () => {
+test("should handle custom delimiters", () => {
   expect(StringCalculator("//;\n1;2")).toBe(3);
-});
-
-test("should handle custom delimiter", () => {
   expect(StringCalculator("//-\n1-2-3")).toBe(6);
 });
